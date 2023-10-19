@@ -1,7 +1,4 @@
 /*	Juhan Hong
- * 	CS 1450 (T/R)
- * 	Due 5/02/2023
- * 	Assignment 10
  * 	Description: This program reads a text file that contains parrots' id, name, and song word. Then, it creates a binary tree and inserts
  *  parrots into the tree. After that, it prints out the parrots' song words in level order and the parrots' name on the leaf nodes. This
  *  program will demonstrate my understanding about binary search trees and level order traversal. 
@@ -14,7 +11,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class HongJuhanAssignment10 {
+public class BinaryTree {
 
     public static void main(String[] args) throws IOException {
         final String PARROT_TEXT = "parrots.txt";
