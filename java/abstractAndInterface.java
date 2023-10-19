@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class HongJuhanAssignment3 {
+public class abstractAndInterface {
 
 	public static void main(String[] args) throws IOException {
 		// reading files
