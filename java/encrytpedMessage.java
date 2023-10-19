@@ -1,7 +1,5 @@
 /*	Juhan Hong
- *	CS1450 (T/R)
- * 	Due: 4/6/2023
- * 	Assignment #8
+
  * 	Description: Given a few txt files with encrypted messages, this program reads 6 files containing a message that is encrypted using a key. 
  * 	The program uses the key to decrypt the message and display the decrypted message. The program uses 2 classes: Translator and DecodingStack. 
  * 	The Translator class contains a method to translate the message. The DecodingStack class contains a Stack<Character> to store the translated message.
@@ -19,7 +17,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class HongJuhanAssignment8 {
+public class encrytpedMessage {
 
     public static void main(String[] args) throws IOException {
         // Read files and create ArrayLists for the 1st message
