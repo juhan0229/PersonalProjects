@@ -1,7 +1,5 @@
 /*	Juhan Hong
- *	CS1450 (T/R)
- * 	Due: 
- * 	Assignment #1
+
  * 	Description: This program is to randomly generate 20 integers between 10-40 and have it put into an array. The program will also display the 
  * 	sum, average, and median of all the values generated. Then, this program will also turn the 1d array into a 2d array with 4 rows and 5 
  * 	columns. This program will also demonstrate my skills with exporting my final product to a file. 
@@ -13,7 +11,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class HongJuhanAssignment1 {
+public class RandomNumGen {
 
 	public static void main(String[] args) throws IOException {
 
