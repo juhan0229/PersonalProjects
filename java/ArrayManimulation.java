@@ -1,9 +1,5 @@
 /*  
 * Name: Juhan Hong      
-* Class CS1450 001 (T/R)  
-* Due: 2/2/2023 
-* Description: Assignment 2 
-* 
 * This program will read from a given text file of different types of disasters and place them into an array accordingly. Each different types of disaster
 * will have different names, the year it happened, and the strength. This program will then create another array only to filter out storms from the 
 * original set of arrays. This program will display the both array of disaster and the array of storms. Lastly, this assignment will demonstrate my understanding 
@@ -154,7 +150,7 @@ class Storm {
 }
 
 //main
-public class HongJuhanAssignment2 {
+public class ArrayManimulation {
 	public static void main(String[] args) throws IOException {
 
 		// reading text file
