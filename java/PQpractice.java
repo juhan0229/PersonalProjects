@@ -8,7 +8,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class HongJuhanAssignment9 {
+public class PQpractice {
 
 	public static void main(String[] args) throws IOException {
 		final String AIRBNB_TEXT = "Airbnbs.txt";
