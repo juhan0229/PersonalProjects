@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Scanner;
 
 
-
 interface Compareable<Ship>{
 	int compareTo(Ship otherShip);
 }
