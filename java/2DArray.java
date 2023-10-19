@@ -1,7 +1,4 @@
 /*	Juhan Hong 
- *	CS1450 (T/R)
- * 	Due: 2/23/2023
- * 	Assignment #4
  * 	Description: Create a program that will use 2d array to mimic an ocean with land and ships. The element for each are given through
  *	text file. The ocean will be displayed in rows and columns and with the rows and columns, each elements will find their correct spots 
  *	within the ocean. The program will also use collection to find the ship's capacity from the highest to lowest and display it at the end
@@ -220,7 +217,7 @@ class Ship extends OceanGrid implements Comparable<Ship>{
 	}
 	
 }
-public class HongJuhanAssignment4 {
+public class 2DArray {
 
 	public static void main(String[] args) throws IOException {
 		Ocean oceans = new Ocean("Ocean.txt", "Land.txt", "Ship.txt");
