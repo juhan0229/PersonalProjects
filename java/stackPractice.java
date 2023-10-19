@@ -1,8 +1,5 @@
 /*
  * Name: Juhan Hong      
- * Class CS1450 001 (T/R)  
- * Due: 3/3/2023 
- * Description: Assignment 5
  * 
  * Create a program to work with stacks. First use a non generic stack and a couple of non generic methods to remove all odd numbers
  * and display the stack. Then create a genericStack class that can perform various tasks including handle incoming values from text files, 
@@ -20,7 +17,7 @@ import java.util.Stack;
 import java.util.Scanner;
 import java.io.File;
 
-public class HongJuhanAssignment5 {
+public class stackPractice {
 
 	public static void main(String[] args) throws IOException {
 		int[] numbers = { 7, 2, 4, 3, 5, 1, 6, 8, 9 };
